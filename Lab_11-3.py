@@ -1,15 +1,12 @@
 # Creator CS 2/3/2023
 
 
-from Lab_11_3_Functions import grades_code
-from Lab_11_3_Functions import inputs_into_list
-from Lab_11_3_Functions import add_nums
-from Lab_11_3_Functions import add_foods
-from Lab_11_3_Functions import indexed_names
-from Lab_11_3_Functions import colors_list
-from Lab_11_3_Functions import cumulative_sum
-from Lab_11_3_Functions import multiples_of_3
-from Lab_11_3_Functions import factorial
-from Lab_11_3_Functions import invite_to_party
+from lab_12-7_function import maximumidea()
+from lab_12-7_function import minimunset()
+from lab_12-7_function import createupperstring()
+from lab_12-7_function import createlowerstring()
 
-print (grades_code)
+print(maximumidea())
+print(minimunset())
+print(createupperstring())
+print(createlowerstring())
